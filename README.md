@@ -4,7 +4,7 @@ An end-to-end data analytics project that transforms raw UPI (Unified Payments I
 
 ## 📖 Project Overview
 
-This project analyzes the **UPI Transactions 2024 Dataset** (2,50,000 records | 17 features) covering digital payment transactions made across Indian states throughout 2024. The analysis focuses on identifying transaction reliability issues, fraud patterns, and spending behavior to support data-driven decisions for payment platforms and banks.
+This project analyzes the **UPI Transactions Dataset** (2,50,000 records | 17 features) covering digital payment transactions made across Indian states throughout 2024. The analysis focuses on identifying transaction reliability issues, fraud patterns, and spending behavior to support data-driven decisions for payment platforms and banks.
 
 ## 🎯 Business Problem
 
