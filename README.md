@@ -20,7 +20,7 @@ As UPI transaction volumes continue to grow, ensuring transaction reliability an
 ## 📂 Dataset
 
 **Source:** UPI Transactions 2024 Dataset
-**Size:** 250,000 rows × 17 columns
+**Size:** 2,50,000 rows × 17 columns
 **Time Period:** 2024
 **Grain:** One row per UPI transaction (no customer-level ID)
 
