@@ -1,9 +1,9 @@
 -- UPI DIGITAL PAYMENTS ANALYSIS 
 
--- Project: UPI Digital Payments Analysis
--- Tools: MySQL
--- Dataset Size: 2,50,000 Transactions
--- Objective: Analyze UPI digital payment transactions to understand transaction patterns, bank performance, fraud trends, and customer spending behavior.
+-- PROJECT: UPI DIGITAL PAYMENTS ANALYSIS 
+-- TOOLS: MySQL
+-- DATASET SIZE: 2,50,000 TRANSACTIONS
+-- OBJECTIVE: ANALYZE UPI DIGITAL PAYMENT TRANSACTIONS TO UNDERSTAND TRANSACTION PATTERNS, BANK PERFORMANCE, FRAUD TRENDS, and CUSTOMER SPENDING BEHAVIOUR.
 
 
 -- 1. DATABASE SETUP
