@@ -1,4 +1,4 @@
-# UPI Digital Payments analysis
+# UPI Digital Payments Analysis
 
 An end-to-end data analytics project that transforms raw UPI (Unified Payments Interface) transaction data into actionable insights.
 
